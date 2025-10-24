@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a fourth-year AI and Data Science student at Chaitanya Bharathi Institute of Technology, I am driven by a passion for web development. My proficiency in HTML, CSS, and JavaScript has allowed me to create a portfolio of projects, where I've honed my problem-solving abilities.<br>I thrive on the challenge of crafting innovative solutions and am eager to contribute my skills to a dynamic software development team. I am committed to staying at the forefront of industry trends and am seeking a role that will push me to excel while making a tangible impact.
+Software Engineer passionate about Artificial intelligence and Machine learning. Did a portfolio of projects in full-stack development and machine learning. Proficient in Python, Java, SQL, JavaScript, React, MongoDB, and major ML libraries like scikit-learn and Keras. Strong understanding of DSA, OOP, DBMS, OS, and Computer Networks. Thrive on crafting innovative solutions and continuously learning emerging technologies to make a tangible impact in dynamic software teams.
 
 
 ## 🌐 Socials:
